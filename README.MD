@@ -62,7 +62,6 @@ How to save and manage images in Python
 The basics of building small, useful automation projects
 
 ---
-
 🔮 Future Enhancements
 
 🎨 Add color customization for QR codes
@@ -75,7 +74,6 @@ The basics of building small, useful automation projects
 
 
 ---
-
 👨‍💻 About the Developer
 
 Vikas
@@ -87,9 +85,9 @@ Vikas
 🧠 Interested in automation, data handling, and GUI projects
 
 🚀 Passionate about building practical and creative tools
+
+
 ---
-
-
 
 ⭐ Final Thoughts
 
