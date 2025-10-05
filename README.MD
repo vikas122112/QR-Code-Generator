@@ -50,7 +50,7 @@ The program will generate and save a QR code image automatically in your project
 
 
 📚 Learning Outcomes
-
+---
 Through this project, you’ll learn:
 
 How to use Python libraries to perform data encoding
@@ -63,6 +63,7 @@ The basics of building small, useful automation projects
 
 ---
 🔮 Future Enhancements
+---
 
 🎨 Add color customization for QR codes
 
@@ -75,6 +76,7 @@ The basics of building small, useful automation projects
 
 ---
 👨‍💻 About the Developer
+---
 
 Vikas
 
